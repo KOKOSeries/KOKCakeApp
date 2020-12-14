@@ -12,9 +12,21 @@
 		</dict>
 		<dict>
 			<key>url</key>
-			<string>https://sdwebimage.github.io/</string>
+			<string>https://github.com/yehot/YYFPSLabel</string>
 			<key>name</key>
 			<string>YYFPS</string>
+		</dict>
+		<dict>
+			<key>url</key>
+			<string>https://github.com/gsdios/SDCycleScrollView</string>
+			<key>name</key>
+			<string>YYFP SDCycleScrollView S</string>
+		</dict>
+		<dict>
+			<key>url</key>
+			<string>https://github.com/SnapKit/Masonry</string>
+			<key>name</key>
+			<string>Masonry</string>
 		</dict>
 	</array>
 </dict>
